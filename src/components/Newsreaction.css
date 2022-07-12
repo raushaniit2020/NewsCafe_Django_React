@@ -1,0 +1,27 @@
+.newsreactions {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    cursor: pointer;
+    padding: 10px;
+    color: gray;
+
+}
+
+/* .newsreactions__icons:hover{
+    color: black;
+} */
+
+.newsreactions:hover {
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.newsreactions>h6 {
+    margin-left: 5px;
+
+}
+
+.newsreactions>h6:hover {
+    color: black;
+}

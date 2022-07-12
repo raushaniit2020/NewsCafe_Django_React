@@ -1,0 +1,13 @@
+.d-flex{
+    margin-right: 50px;
+}
+
+.header__login{
+    color: white;
+    margin-right: 22px;
+    
+    
+}
+.header__login:hover{
+    cursor: pointer;
+}
